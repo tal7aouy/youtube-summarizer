@@ -1,0 +1,29 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual Environment
+venv/
+env/
+
+# Flask
+instance/
+*.db
+*.sqlite
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# ngrok
+*.ngrok
+.env

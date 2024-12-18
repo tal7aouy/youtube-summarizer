@@ -1,0 +1,8 @@
+pytube==7.0.16
+Flask==3.1.0
+twilio==9.4.1
+langchain==0.3.12
+langchain-anthropic==0.3.0
+youtube-transcript-api==0.6.3
+python-dotenv==1.0.1
+
