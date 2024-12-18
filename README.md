@@ -25,7 +25,6 @@ This is a Python Flask application that integrates with Twilio's WhatsApp API to
    cd youtube-summarizer
    ```
 
-````
 
 2. **Create a virtual environment**:
 
@@ -81,18 +80,8 @@ GPT, a large language model, generates human-like text by predicting the next wo
 - If the bot is not responding to WhatsApp, make sure the webhook is properly configured in the **Twilio Console**.
 - If you're encountering issues with the YouTube transcript, verify the video is available in the requested languages.
 
-### Author
-
-- **Name**: tal7aouy
-- **Email**: talhaouy@gmail.com
-
----
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT LICENSE](LICENSE) file for details.
 
-```
-
-```
-````
